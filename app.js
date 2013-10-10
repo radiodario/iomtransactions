@@ -1,3 +1,4 @@
-var scraper = require('/lib/dataScraper');
+
+var scraper = require('./lib/dataScraper');
 
 scraper.scrape();
