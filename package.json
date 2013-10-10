@@ -11,6 +11,9 @@
   "dependencies": {
     "cheerio": "~0.12.3",
     "request": "~2.27.0",
-    "mongoose": "~3.6.20"
+    "mongoose": "~3.6.20",
+    "cron": "~1.0.1",
+    "colour": "~0.7.1",
+    "stringformat": "0.0.5"
   }
 }
